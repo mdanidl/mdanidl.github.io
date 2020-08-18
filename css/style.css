@@ -1037,7 +1037,7 @@ transition: all .3s;
 border: 1px solid #CE1139;
 }
 #aboutUs {
-    padding: 110px 0;
+    padding: 110px 0 0px 0;
 }
 
 /* Contact
@@ -2375,3 +2375,7 @@ display:none;
 }
 .rt-box {/* float: left; *//* width: 88%; */text-align: left;margin-left: 10px;margin-bottom: 25px;text-align: center;}
 img.img.img-circle.lt-box {/* float: left; */width: 64px;height: auto;}
+.footnote {
+    font-size: 10px;
+    align-content: flex-end;
+}
